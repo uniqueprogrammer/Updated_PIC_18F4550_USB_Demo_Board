@@ -19,7 +19,7 @@ using System.Runtime.InteropServices;
 using System.Threading;
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////
-namespace putYourNamespaceNameHere {										// NOTE: change this to match your namespace name
+namespace USBDemoBoard {										// NOTE: change this to match your namespace name
 	
 	/////////////////////////////////////////////////////////////////////////////////////////////////
 	public class USBClass : Form {
